@@ -1,0 +1,14 @@
+# 备份/临时
+*.bak
+*.bak-*
+*.tmp
+*.log
+
+# 系统
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# 截图产物
+*.png
+!docs/**/*.png
